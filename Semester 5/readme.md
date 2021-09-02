@@ -2,7 +2,7 @@
 |  Subjects | Syllabus  | Lecture Plan | 
 | ------- | ------------- | -------------- | 
 | Bioinformatics | Row 2 Column 2 | Row 2 Column 3 |
-| Recombinant DNA Technology | Row 3 Column 2 | Row 3 Column 3 |
+| Recombinant DNA Technology | [link](https://docs.google.com/document/d/1NL-r3Hv8cS0XNphtPGSUsKWQi2l3Y4ZE6cWnSNmpLQQ/edit) | Row 3 Column 3 |
 | Enzyme Technology | Row 1 Column 2 | Row 1 Column 3 |
 | Biochemical Engineering | Row 2 Column 2 | Row 2 Column 3 |
 | Combinatorics| Row 3 Column 2 | Row 3 Column 3 |
