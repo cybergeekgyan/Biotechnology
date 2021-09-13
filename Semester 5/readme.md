@@ -1,6 +1,6 @@
 
-|  Subjects | Syllabus  | Lecture Plan | 
-| ------- | ------------- | -------------- | 
+|  Subjects | Syllabus  | Lecture Plan | Practicals | Resources | 
+| --------- | ----------- | ---------- | ---------- | ---------- | 
 | Bioinformatics | - | - |
 | Recombinant DNA Technology | [link](https://docs.google.com/document/d/1NL-r3Hv8cS0XNphtPGSUsKWQi2l3Y4ZE6cWnSNmpLQQ/edit) | - |
 | Enzyme Technology | - | - |
