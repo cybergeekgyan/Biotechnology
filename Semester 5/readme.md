@@ -3,7 +3,7 @@
 | --------- | ----------- | ---------- | ---------- | ---------- | 
 | Bioinformatics | - | - | - | - [NPTEL](https://onlinecourses.nptel.ac.in/noc21_bt06/course) - [Youtube - Shomu's Biology](https://www.youtube.com/playlist?list=PLb0WW0k29aHrF8aZzK17ORTesZsd-lING) - [Youtube](https://www.youtube.com/playlist?list=PLtNHazY8vVekkvNx4d5FS3PTJJo7kbUXC) |
 | Recombinant DNA Technology | [link](https://docs.google.com/document/d/1NL-r3Hv8cS0XNphtPGSUsKWQi2l3Y4ZE6cWnSNmpLQQ/edit) | - | - | [Youtube](https://www.youtube.com/playlist?list=PLtNHazY8vVen7uBRmtK56CYV7hJEuaIw9) |
-| Enzyme Technology | - | - |
+| Enzyme Technology | [link](https://docs.google.com/document/d/1G86FhN1suTUd8LK4nRcL8DZkWdSKJ0vOhlqJW_asOBs/edit) | - |
 | Biochemical Engineering | - | - |
 | Combinatorics| - | - |
 | Minor 1 - DBMS | - | - | - | [link](https://github.com/cybergeekgyan/Biotechnology/tree/main/Semester%205/Minor%201%20-)
