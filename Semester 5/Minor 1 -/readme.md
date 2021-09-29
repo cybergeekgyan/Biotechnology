@@ -59,24 +59,3 @@
   - [FreeCodeCamp Part - 2](https://www.youtube.com/watch?v=lxEdaElkQhQ)
 
 
-### Resources
-
-- Links for comp bio notes
-https://drive.google.com/drive/folders/1PA5wdHhQRxbxv0pJaLO1apCALdMSRyq9?usp=sharing
-
-
-
-- Links for comp bio reading materials
-https://drive.google.com/drive/folders/1i-IjGGgwjp4tm9Vix53si58bVPsWXGAl?usp=sharing
-
-
-- Reading resources for genomic sequencing approaches:
-https://www.ncbi.nlm.nih.gov/books/NBK21117/
-
-
-- Reading material for mapping techniques:
-https://www.ncbi.nlm.nih.gov/books/NBK21116/
-
-
-- Recommended course for students (free):
-https://www.educative.io/courses/learn-python-3-from-scratch
