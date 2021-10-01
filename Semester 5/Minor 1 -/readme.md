@@ -1,5 +1,10 @@
 ## Data Base Management Systems
 
+**UDEMY COURSES TO FOLLOW**
+
+  - [Ultimate MySQl bootcamp](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
+  - [Complete Sql bootcamp 2021](https://www.udemy.com/course/the-complete-sql-bootcamp/)
+  - [Sql: MySql for data analytics and business intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/)
 
 **Tech Giants**:
   * usually asks only a bit about *normalization*, *ACID properties*(imp.) and *SQL queries* & Interview is done.
