@@ -27,3 +27,16 @@ https://www.youtube.com/watch?v=b9Lm2TUDN2M
  - [Blotting Techniques](https://www.youtube.com/playlist?list=PLHs0Ha1N2sgdhIPN0wrwDXlx3eXN8_d9z)
 
 - [DNA & RNA Markers](https://www.youtube.com/playlist?list=PLHs0Ha1N2sgeHbhgspCb8FOKdqVsIOHH3)
+
+- [Vectors](https://microbenotes.com/vector-molecular-biology/)
+- [Cloning Vectors](https://microbenotes.com/cloning-vectors/)
+
+- [YACs](https://microbenotes.com/yeast-artificial-chromosomes-yacs/)
+
+- [RFLP](https://microbenotes.com/restriction-fragment-length-polymorphism-rflp/)
+
+- [Restrition Enzymes](https://microbenotes.com/restriction-enzyme-restriction-endonuclease/)
+
+- [Gene Cloning](https://microbenotes.com/gene-cloning-requirements-principle-steps-applications/)
+
+- 
