@@ -62,5 +62,6 @@
   - [Education 4u](https://www.youtube.com/playlist?list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn)
   - [FreeCodeCamp Part - 1](https://www.youtube.com/watch?v=4cWkVbC2bNE&t=213s)
   - [FreeCodeCamp Part - 2](https://www.youtube.com/watch?v=lxEdaElkQhQ)
+  - [Jenny's lectures](https://youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc)
 
 
