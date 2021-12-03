@@ -46,3 +46,52 @@
 - [Kinetics of Bisubstrate Enzymes(video)](https://www.youtube.com/watch?v=Bgqsfj85vB0)
 - [Multi-Substrate Sequential Mechanisms]()
 - [Multisubstrate Systems]()
+- [MR 2](https://drive.google.com/file/d/1EEk80IYvbq4lJOTNp0F5TEeZj9d9rJuw/view)
+- [Multi Enzyme Systems](https://drive.google.com/file/d/1HfrN9v4jtb7T3sPTxR3KcgFIF3dsZX8i/view)
+- [Multi enzyme systems](https://drive.google.com/file/d/1PF6t7_0q3eYNbtsHJFEpav65IEZ39S-R/view)
+- [Sequential and Ping Pong Reactions](https://www.youtube.com/watch?v=pWURzs8GiB4)
+
+## Enzyme Immobilization
+
+- [Immobilization(jamboard)](https://jamboard.google.com/d/1SEzbu0ih_tlcHb42mq9MfeRtWEX98x1Mj47zut1B5jA/viewer)
+
+**Enzyme Immobilization Videos**
+
+- [Immobilized Enzymes 1](https://www.youtube.com/watch?v=_hM8I-yzOAo)
+- [Immobilized Enzymes 2](https://www.youtube.com/watch?v=KYSk7KwgO2U)
+- [Immobilized Enzymes 3](https://www.youtube.com/watch?v=KHk635nO668)
+
+### Quiz on Methods of Immobilization – 1
+
+- [QUIZ-1](https://theexaminers.co.uk/quiz/biochemistry/methods-of-immobilization-–-1/621)
+
+**Mechanism of Enzyme**
+
+- [Chymotrypsin](https://docs.google.com/presentation/d/1siLjrjOlv99J0pPhLlD4q4P2HjdWFlw-ZeJLz7fB_zs/edit#slide=id.g9fd74b209c_2_17)
+
+## Enzyme Reactor 
+
+- [Reactors for Enzyme Catalysed Reactions](https://www.youtube.com/watch?v=wTw8-YGYIZ8)
+- [Enzyme Reactor (slides)](https://docs.google.com/presentation/d/10B4VINbH4scLcRTSqx6-BIp6Or_q7a5EZlz0AVZWDsU/edit#slide=id.p)
+
+- [Reactor design for minimizing product inhibition](https://drive.google.com/file/d/1Eob0KhTZXCMEneQPWTXxOG8i1P4j0HoX/view)
+
+- [Problem solving:Reactor Design](https://www.youtube.com/watch?v=g0_Hz2wDIfo)
+
+- [PANCREATIC LIPASE](https://docs.google.com/presentation/d/11Uy3h9ZiA3EYKwE9gkiHiZ_Se5alG8SRh28yKwRT4sA/edit#slide=id.gad42f46594_2_34)
+
+- [Lipase Mechanism](https://drive.google.com/file/d/1OXanvuXaGe3q5pL5samqbP6AedDi_q9G/view)
+
+- [Internal mass transfer of immobilized enzyme(Jamboard)](https://jamboard.google.com/d/1iK5F-Pa0qouHgVdIjF_mWUuS57GgpERLx-GYPC5QLS8/viewer)
+
+### KING ALTMAN METHOD
+
+- [THE KING AND ALTMAN PROCEDURE/Method](https://www.youtube.com/watch?v=HZKAgHZLxnE)
+
+### Enzyme Inhibitor Numericals 
+
+- [Numericals](https://docs.google.com/spreadsheets/d/1gjz3kdjoT1Ms7QSQaLrhaih6PheJeZnxWd95B76WOvc/edit#gid=0)
+
+### Mechanism of enolase and CAH
+
+- [Mechanism](https://drive.google.com/file/d/1WU1PHE_qPJSoPpxRsfwiI7KLthPR3ugO/view)
