@@ -1,1 +1,9 @@
+## SEMESTER SUBJECTS
 
+- [PABT]()
+- [DSP]()
+- [ENZYME TECHNOLOGY]()
+- [WASTE MANAGEMENT]()
+- [BIOPROCESS TECHNOLOGY]()
+- [BIOENERGY FUNDAMENTALS]()
+- [NPTEL -> Energy Resources, Economics and Environment]()
